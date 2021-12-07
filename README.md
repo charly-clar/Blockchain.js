@@ -1,2 +1,2 @@
-# BLOCKCHAIN-JS
+# Blockchain-js
 Blockchain create with JS
